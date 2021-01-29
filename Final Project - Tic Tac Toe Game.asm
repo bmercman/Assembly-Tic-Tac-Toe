@@ -1,4 +1,4 @@
-# Benjamin Mercier 100745885, Brendan Murach 100741937, Daivano Rahming 100751298
+# Author - Benjamin Mercier
 .data
 board: .word 0,0,0,0,0,0,0,0,0 # stores value of game grid
 prompt1: .asciiz "\nPlayer 1 choose X or O (Enter 1 or 2): " # mark selection prompt
